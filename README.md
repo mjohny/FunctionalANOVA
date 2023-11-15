@@ -1,2 +1,2 @@
-# FunctionalANOVA-Wildfire
- Studying the effect of wildfire on vegetation
+# FunctionalANOVA
+ Method for comparing groups of time series
